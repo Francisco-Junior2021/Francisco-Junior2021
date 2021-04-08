@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   </p>
-###  
+
+
+### Um pouco sobre mim
 * Análise e desenvolvimento de sistemas IFPB-Cajazeiras :computer: :school: :school_satchel:
 * Pedagogo Escolar :white_check_mark:
 * Pós em psicopedagogia Institucional :white_check_mark:
